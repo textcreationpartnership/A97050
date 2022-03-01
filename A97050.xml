@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Happy newes from Sherborn, and Sherborne Castle: relating, the death of Colonel Lunsford, the Lord Paulet, and divers other persons of quality, the taking of divers prisoners, and great store of armes from the cavaliers. Written in a letter from Dorchester to Master Nicholas Skinner a merchant of London, declaring the happy successe of the Parliaments forces, against the cavaliers betwixt Sherborne and Yeavell. Also, a true copy of the last petition, sent by both Houses of Parliament to His Majestie.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97050</idno>
+            <idno type="STC">Wing W57</idno>
+            <idno type="STC">Thomason E116_39</idno>
+            <idno type="STC">ESTC R4081</idno>
+            <idno type="EEBO-CITATION">99872595</idno>
+            <idno type="PROQUEST">99872595</idno>
+            <idno type="VID">156056</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156056)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Happy newes from Sherborn, and Sherborne Castle: relating, the death of Colonel Lunsford, the Lord Paulet, and divers other persons of quality, the taking of divers prisoners, and great store of armes from the cavaliers. Written in a letter from Dorchester to Master Nicholas Skinner a merchant of London, declaring the happy successe of the Parliaments forces, against the cavaliers betwixt Sherborne and Yeavell. Also, a true copy of the last petition, sent by both Houses of Parliament to His Majestie.</title>
+                  <author>J. W.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Cowles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 13. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I.W.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lunsford, Thomas, --  Sir, 1610?-1653?</term>
+               <term>Winchester, John Paulet, --  Earl of, 1598-1675.</term>
+               <term>Sherborne (Dorset) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156056:1"/>
+            <pb facs="tcp:156056:1" rendition="simple:additions"/>
+            <p>Happy Newes from SHERBORN, AND Sherborne Caſtle: RELATING, THE death of Colonel <hi>Lunsford,</hi> the Lord <hi>Paulet,</hi> and divers other perſons of qua<g ref="char:EOLhyphen"/>lity, the taking of divers priſoners, and great ſtore of Armes from the CAVALIERS.</p>
+            <p>Written in a Letter from DORCHESTER to Maſter <hi>Nicholas Skinner</hi> a Merchant of LONDON, declaring the happy ſucceſſe of the Parliaments Forces, againſt the Cavaliers betwixt Sherborne and Yeavell.</p>
+            <p>ALSO, A true Copy of the laſt Petition, ſent by both Houſes of PARLIAMENT to His MAJESTIE.</p>
+            <p>London Printed for <hi>F. Cowles.</hi> Septemb. 13. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156056:2"/>
+            <pb n="3" facs="tcp:156056:2"/>
+            <head>A Letter written from a Merchant in DORGHESTER to M. <hi>Nicholas Skinner</hi> a Merchant of LONDON, declaring the happy ſucceſſe of the Parliaments Forces, in defeating divers of the Cave<g ref="char:EOLhyphen"/>liers near <hi>SHERBORNE.</hi>
+            </head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ere in the Countrey we dare not ſend ſeven miles abroad, for feare of the Cavaliers, who lye at <hi>Sherborne,</hi> pillaging, robbing and killing like ſo many Sonnes of Hell; but they were met withall this weeke to the purpoſe, by ſome <hi>London</hi> Troupers, and our <hi>Dorcheſter</hi> Troopers.</p>
+            <p>My L. of <hi>Bedford</hi> finding the Caſtle to be a piece
+<pb n="4" facs="tcp:156056:3"/>of greater ſtrength than he imagined, and ſeeing his trained Bands to forſake him; ſo that of ſixe or ſeven thouſand he had not above fifteene hundred in three d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes, not that they deſerted the Cauſe, but being men who had Wives and Eſtates, were loth to ha<g ref="char:EOLhyphen"/>zard their lives in an offenſive war. My Lord re<g ref="char:EOLhyphen"/>ſolved to raiſe the ſiege, and on Tueſday marched to <hi>Yeavell,</hi> foure miles diſtant from <hi>Sherborne.</hi> There were loſt ſeven or eight men of a ſide at the ſiege, as we heare, I am ſure no more on our ſide. On Wed<g ref="char:EOLhyphen"/>neſday toward Evening, while my LORD of <hi>Bedford</hi> and the ſouldiers were at a Sermon in <hi>Yeavell,</hi> at the Funerall of ſome ſouldiers lately killed; The <hi>Sher<g ref="char:EOLhyphen"/>borne</hi> Lords and Cavaliers, having that day received to their number a hundred horſe and two hundred foot, from M. <hi>Rogers,</hi> one of our Shire Knights, inſo<g ref="char:EOLhyphen"/>lently triumphing at the departure of my Lord of <hi>Bedfords</hi> Forces, and contemning the Parliament, came in a bravado, and pitched themſelves in battell<g ref="char:EOLhyphen"/>array with 400 horſe, and two hundred Muskettiers in ambuſh on the top of the Hill, betwixt <hi>Yeavell</hi> and <hi>Sherborne</hi> mid-way: Which the <hi>London</hi> Troo<g ref="char:EOLhyphen"/>pers hearing of, two Troops of theirs, and our <hi>Dor<g ref="char:EOLhyphen"/>cheſter</hi> Troop made ready to aſſault the Enemy, the other Troops abiding at the ends of the Towne of <hi>Yeavell,</hi> fearing the Cavaliers would ſurpriſe the Towne. Our men had about a hundred Muskettiers, and a hundred and forty horſe, and marched up the Hill while Bullets flew as thicke as haile about their eares, aſſaulted the Cavaliers, and came in to ſwords point, ſlaſhing and cutting without any pitty or
+<pb n="5" facs="tcp:156056:3"/>mercy, the great Rebels, reſpecting no perſon, but the night came on, elſe they had killed and taken eve<g ref="char:EOLhyphen"/>ry man. God caſt upon the Cavaliers a ſpirit of fear<g ref="char:EOLhyphen"/>fulneſſe, that they ran like Mice into every hole. The Muskettiers threw downe their Armes and fled, ſo that our men brought above a hundred of their Mus<g ref="char:EOLhyphen"/>kets into <hi>Yeavell,</hi> tooke about twenty men, amongſt which were ſome chiefe Commanders, killed many, amongſt whom Colonell <hi>Lunsford</hi> and the Lord <hi>Pau<g ref="char:EOLhyphen"/>let</hi> are certainly ſlaine.</p>
+            <p>The next morning there was found twenty eight dead bodies of the enemies lying upon the ground, beſides thoſe which were carried away in the night, there were Lanthornes and Candles ſearching for dead bodies all the night, moſt of the Cavaliers run<g ref="char:EOLhyphen"/>ning away (for ſo they did) they cryed out to our men, hold your hands, you have ſhed already much noble blood. Of our ſide were ſlaine five men, &amp;c. two or three taken priſoners, and divers lightly wounded, The Cavaliers were heard to ſay at their comming home, (as ſome of our neighbours which were preſent heard them ſay) they had loſt halfe their men, of two hundred Muſquetiers there retur<g ref="char:EOLhyphen"/>ned but eighteene to the Caſtle that night; thus in briefe I have related to you the truth, praiſed be to God for the Victory, So farewell.</p>
+            <closer>
+               <signed>Your loving friend, <hi>I. W.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dorcheſter</hi> 
+                  <date>
+                     <hi>Septemb.</hi> 9. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:156056:4"/>
+            <head>To the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent MAIESTY.</head>
+            <head type="sub">The humble Anſwer and Petition of the Lords and Commons aſſembled in PARLIAMENT, unto the Kings laſt Meſſage, bearing date <date>the fifth of <hi>September.</hi>
+               </date>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Majesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F We the Lords and Commons in Parliament aſſembled, ſhould repeat all the wayes we have taken, the en<g ref="char:EOLhyphen"/>deavours we have uſed, and the Ex<g ref="char:EOLhyphen"/>preſſions we have made unto your Majeſty, to prevent thoſe diſtractions and dangers your Majeſty ſpeaks of, likely to fall upon this Kingdome, we ſhould too much enlarge this reply; therefore as we humbly, ſo ſhall we onely let your Majeſty know, that we cannot receade from our former anſwer for the reaſons there expreſſed, for that you have not taken downe your Standard, recalled your Proclamations and Declarations, whereby you have declared the actions of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament to be treaſonable, and their Per<g ref="char:EOLhyphen"/>ſons traytors, and you have publiſhed this ſame ſince
+<pb n="7" facs="tcp:156056:4"/>the 25. of <hi>Auguſt,</hi> by your late inſtructions ſent to your Commiſſioners of Array, which Standard be<g ref="char:EOLhyphen"/>ing taken downe, and the Declarations, Proclamati<g ref="char:EOLhyphen"/>ons, and inſtructions recalled, if your Majeſty ſhall then upon this our humble Petition leaving your Forces, returne unto your Parliament, and receive their faithfull advice, your Majeſty will finde ſuch expreſſions of our fidelity and duties, as ſhall aſſure you that your ſafety, honour, and greatneſſe can onely be found in the affections of your people, and the ſincere Counſell of your Parliament, whoſe conſtant and diſcouraged endeavours and conſultations have paſſed through difficulties unheard of, only to ſecure your Kingdomes from the violent miſchiefs and dan<g ref="char:EOLhyphen"/>gers now ready to fall upon them, and every part of them who deſerve better of your Majeſty, and can ne<g ref="char:EOLhyphen"/>ver allow themſelves (repreſenting likewiſe your whole Kingdome) to be ballanced with thoſe perſons whoſe deſperate conditions and counſels prevaile ſtill ſo to interrupt all our endeavours for the relie<g ref="char:EOLhyphen"/>ving of bleeding <hi>Ireland,</hi> as we may feare our labours and vaſte expences will be fruitleſſe to that diſtreſſed Kingdome, as your preſence is thus deſired by us, ſo it is our hopes your Majeſty will in your reaſon be<g ref="char:EOLhyphen"/>leeve there is no other way then this, to make your ſelfe happy, and your Kingdome ſafe.</p>
+            <closer>
+               <signed>Iohn Browne Cleric. Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
